@@ -5,8 +5,8 @@
 2. **Pizza Sales Analysis 🍕 | SQL & Excel**    
 
 
-
-
+  
+  
 ****Academic Projects: ML and Data Analytics Projects | Python and ML Toolkits****
 
 
