@@ -6,10 +6,7 @@
 
 
 <br><br>
-****Academic Projects: ML and Data Analytics Projects | Python and ML Toolkits****
-
-
-
+****Academic Projects: ML and Data Analytics Projects | Python and ML Toolkits:****
 
 **1. Cryptocurrency Price Prediction –** 
 - Built ML models (Random Forest, Linear Regression, KNN) in Python to forecast Bitcoin prices, with Linear Regression achieving the best accuracy (RMSE: 1407.10) and Moving Averages emerging as key predictors.
