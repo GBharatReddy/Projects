@@ -2,7 +2,7 @@
 
 1. **HR Analytics Dashboard 📊💡| SQL, Power BI & Excel**
 
-2. **Pizza Sales Analysis 🍕 | SQL & Excel**    
+2. **Pizza Sales Analysis 🍕 | SQL & Excel**<br><br>
 
 
   
