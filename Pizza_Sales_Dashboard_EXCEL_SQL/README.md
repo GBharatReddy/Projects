@@ -1,14 +1,14 @@
-Pizza Sales Analysis 🍕
+**Pizza Sales Analysis** 🍕
 
 This project analyzes pizza sales data to extract actionable business insights and visualize trends. Key metrics and visualizations include:
 
-Revenue & Orders: Total Revenue, Average Order Value, Total Orders, Total Pizzas Sold, Average Pizzas per Order.
+**Revenue & Orders:** Total Revenue, Average Order Value, Total Orders, Total Pizzas Sold, Average Pizzas per Order.
 
-Trends: Daily and Hourly order trends to identify peak sales periods.
+**Trends:** Daily and Hourly order trends to identify peak sales periods.
 
-Category Insights: % of Sales by Pizza Category and Size, Total Pizzas Sold by Category.
+**Category Insights:** % of Sales by Pizza Category and Size, Total Pizzas Sold by Category.
 
-Product Performance: Top 5 and Bottom 5 Best Sellers by total pizzas sold.
+**Product Performance:** Top 5 and Bottom 5 Best Sellers by total pizzas sold.
 
 The analysis helps optimize menu offerings, inventory planning, and marketing strategies.
 
