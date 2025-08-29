@@ -6,7 +6,6 @@
 
 
 <br><br>
-<br><br>
 ****Academic Projects: ML and Data Analytics Projects | Python and ML Toolkits****
 
 
