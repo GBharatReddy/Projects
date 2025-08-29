@@ -1,3 +1,0 @@
-HR Analytics Dashboard | SQL, Power BI & Excel
-
-Developed a comprehensive HR Analytics Dashboard to empower the HR department with critical workforce insights. Utilized MySQL Workbench for database design and querying, ensuring accurate and reliable data extraction. Created dynamic visualizations in Power BI and Excel to track KPIs such as employee count, attrition rates, job satisfaction, and demographic distributions. Conducted thorough QA testing for functional accuracy and data validation by matching Power BI reports with SQL query outputs. This project highlights skills in database management, data analytics, dashboard development, and quality assurance.
